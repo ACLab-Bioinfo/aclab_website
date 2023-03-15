@@ -3,7 +3,7 @@
 
 This is the source code foe ACLab webpage.
 
-Visit **[aclab-bioinfo.github.io/aclab_website](https://aclab-bioinfo.github.io/aclab_website/)** 🚀
+Visit **[aclab-bioinfo.github.io/aclab_website](https://aclab-bioinfo.github.io/aclab_website)** 🚀
 
 
 
