@@ -1,5 +1,5 @@
-title: ACLab-Bioinfo
-subtitle: by the Greene Lab
+title: ACLab
+subtitle: Powered by ACLab Bioinfo
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -7,7 +7,7 @@ links:
   email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  github: https://github.com/ACLab-Bioinfo
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
