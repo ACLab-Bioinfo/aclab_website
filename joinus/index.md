@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Join Us
 nav:
   order: 5
 ---
