@@ -2,7 +2,6 @@
 title: News
 nav:
   order: 3
-  tooltip: Check our news
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
