@@ -3,11 +3,38 @@
 
 # ACLab-Bioinfo's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab is dedicated to advancing biomedical research in hepatocellular carcinoma (HCC) immunotherapy, a novel and promising treatment approach against one of the most frequent and lethal liver cancers worldwide. We use multi-omics techniques to unravel the complex interactions in tumor microenvironment, as well as the epigenetic changes that occur during drug resistance. Our goal is to identify new biomarkers and therapeutic targets for HCC immunotherapy, and to optimize its efficacy. By applying cutting-edge technologies and collaborating with leading experts in the field, we aim to contribute to the development of personalized and effective immunotherapy strategies for HCC patients.
 
 {% include section.html %}
 
 ## Highlights
+
+
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="tools"
+  text="Check our news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="news"
+  title="Our News"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 
 {% capture text %}
 
@@ -38,31 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
@@ -79,3 +81,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
