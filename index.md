@@ -1,7 +1,15 @@
 ---
 ---
 
-# ACLab-Bioinfo's Website
+# Alfred Lab
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/main.img/banner.png" %}
+
+{% include section.html %}
 
 Our lab is dedicated to advancing biomedical research in hepatocellular carcinoma (HCC) immunotherapy, a novel and promising treatment approach against one of the most frequent and lethal liver cancers worldwide. We use multi-omics techniques to unravel the complex interactions in tumor microenvironment, as well as the epigenetic changes that occur during drug resistance. Our goal is to identify new biomarkers and therapeutic targets for HCC immunotherapy, and to optimize its efficacy. By applying cutting-edge technologies and collaborating with leading experts in the field, we aim to contribute to the development of personalized and effective immunotherapy strategies for HCC patients.
 
