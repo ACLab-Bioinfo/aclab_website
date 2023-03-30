@@ -20,13 +20,10 @@
   type: paper
   description: test test
   date: 2021-4-7
-  image: https://www.iso.cuhk.edu.hk/images/publication/CUHKUPDates/original/nsl578-alfred-cheng04.jpg
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
   tags:
     - Epigenomic
     - ICB
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 - id: doi:10.1136/gutjnl-2018-317257
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
@@ -34,3 +31,8 @@
   tags:
     - Epigenomic
     - Microenvironment
+
+- id: doi:10.1136/gutjnl-2017-314032
+  type: paper
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5961939/bin/nihms966563f1.jpg
+  date: 2018-4-6
