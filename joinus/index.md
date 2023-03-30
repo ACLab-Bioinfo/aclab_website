@@ -25,21 +25,8 @@ Our lab is part of the Chinese University of Hong Kong, Faculty of Medicine's Sc
 
 {% include figure.html image="images/main.img/SBS_logo.png" link="https://www2.sbs.cuhk.edu.hk/en-gb/" width="400px" %}
 
-{%
-  include button.html
-  type="email"
-  text="alfredcheng@cuhk.edu.hk"
-  link="alfredcheng@cuhk.edu.hk"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(+852) 3943 9842"
-  link="+852-39439842"
-%}
 
-
-{% include button.html type="email" text="alfredcheng@cuhk.edu.hk" link="alfredcheng@cuhk.edu.hk" %} {% include button.html type="phone" text="(+852) 3943 9842" link="+852-39439842" %} {% include button.html type="Address" link="https://www.google.com/maps/place/沙田罗桂祥综合生物医学大楼/@22.4274869,114.2017993,17z/data=!3m1!4b1!4m6!3m5!1s0x3404089018f1d2b9:0xbaeb2c45830d7f66!8m2!3d22.4274869!4d114.203988!16s%2Fg%2F11dyhy571" %}
+{% include button.html type="email" text="alfredcheng@cuhk.edu.hk" link="alfredcheng@cuhk.edu.hk" %} {% include button.html type="phone" text="(+852) 3943 9842" link="+852-39439842" %} {% include button.html type="address" text="Address" link="https://www.google.com/maps/place/沙田罗桂祥综合生物医学大楼/@22.4274869,114.2017993,17z/data=!3m1!4b1!4m6!3m5!1s0x3404089018f1d2b9:0xbaeb2c45830d7f66!8m2!3d22.4274869!4d114.203988!16s%2Fg%2F11dyhy571" %}
 
 {% capture content %} {% include figure.html image="images/contact/AHSB.jpg" %} {% include figure.html image="images/contact/cu-aerial.jpg" %} {% include figure.html image="images/contact/cu-photo.jpg" %} {% endcapture %}
 
