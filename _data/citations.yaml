@@ -84,6 +84,143 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.ymthe.2022.09.012
+  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
+    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+  authors:
+  - Xiaoyu Liu
+  - Jingying Zhou
+  - Haoran Wu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Wenshu Tang
+  - Liang Duan
+  - Ying Wang
+  - Eleanor McCabe
+  - Mengying Hu
+  - Zhuo Yu
+  - Hanzhuang Liu
+  - Chung Hang Jonathan Choi
+  - Joseph Jao-yiu Sung
+  - Leaf Huang
+  - Rihe Liu
+  - Alfred Sze-lok Cheng
+  publisher: Molecular Therapy
+  date: '2023-01-04'
+  link: https://doi.org/gr2pp7
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jmedchem.2c01132
+  title: Development of Alkylated Hydrazides as Highly Potent and Selective Class
+    I Histone Deacetylase Inhibitors with T cell Modulatory Properties
+  authors:
+  - Ping Sun
+  - Jing Wang
+  - Khadija S. Khan
+  - Weiqin Yang
+  - Billy Wai-Lung Ng
+  - Nikita Ilment
+  - Matthes Zessin
+  - "Emre F. B\xFClb\xFCl"
+  - Dina Robaa
+  - Frank Erdmann
+  - Matthias Schmidt
+  - Christophe Romier
+  - Mike Schutkowski
+  - Alfred Sze-Lok Cheng
+  - Wolfgang Sippl
+  publisher: Journal of Medicinal Chemistry
+  date: ''
+  link: https://doi.org/gr2pp8
+  type: paper
+  image: https://pubs.acs.org/cms/10.1021/acs.jmedchem.2c01132/asset/images/medium/jm2c01132_0026.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-022-00872-3
+  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
+    through natural killer T cell dysfunction in obese liver
+  authors:
+  - Wenshu Tang
+  - Jingying Zhou
+  - Weiqin Yang
+  - Yu Feng
+  - Haoran Wu
+  - Myth T. S. Mok
+  - Lingyun Zhang
+  - Zhixian Liang
+  - Xiaoyu Liu
+  - Zhewen Xiong
+  - Xuezhen Zeng
+  - Jing Wang
+  - Jiahuan Lu
+  - Jingqing Li
+  - Hanyong Sun
+  - Xiaoyu Tian
+  - Philip Chun Yeung
+  - Yong Hou
+  - Heung Man Lee
+  - Candice C. H. Lam
+  - Howard H. W. Leung
+  - Anthony W. H. Chan
+  - Ka Fai To
+  - John Wong
+  - Paul B. S. Lai
+  - Kelvin K. C. Ng
+  - Simon K. H. Wong
+  - Vincent W. S. Wong
+  - Alice P. S. Kong
+  - Joseph J. Y. Sung
+  - Alfred S. L. Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2022-05-20'
+  link: https://doi.org/gr2pp9
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41423-022-00872-3/MediaObjects/41423_2022_872_Fig7_HTML.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.canlet.2021.10.039
+  title: Sirtuin 7 super-enhancer drives epigenomic reprogramming in hepatocarcinogenesis
+  authors:
+  - Feng Wu
+  - Liangliang Xu
+  - Yalin Tu
+  - Otto KW. Cheung
+  - Lemuel LM. Szeto
+  - Myth TS. Mok
+  - Weiqin Yang
+  - Wei Kang
+  - Qin Cao
+  - Paul BS. Lai
+  - Stephen L. Chan
+  - Patrick Tan
+  - Joseph JY. Sung
+  - Kevin Y. Yip
+  - Alfred SL. Cheng
+  - Ka F. To
+  publisher: Cancer Letters
+  date: '2022-01-28'
+  link: https://doi.org/gr2pqb
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304383521005553-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers13102418
+  title: Liver Immune Microenvironment and Metastasis from Colorectal Cancer-Pathogenesis
+    and Therapeutic Perspectives
+  authors:
+  - Xuezhen Zeng
+  - Simon E. Ward
+  - Jingying Zhou
+  - Alfred S. L. Cheng
+  publisher: Cancers
+  date: '2021-05-17'
+  link: https://doi.org/gq7jd3
+  type: review
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8156220/bin/cancers-13-02418-g001.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/scitranslmed.aaz6804
   title: A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of
     immune checkpoint blockade in hepatocellular carcinoma
@@ -122,6 +259,45 @@
   - ICB
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41423-020-00534-2
+  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
+    promote cancer metastasis
+  authors:
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Zhewen Xiong
+  - Hanyong Sun
+  - Weiqin Yang
+  - Myth T. S. Mok
+  - Jing Wang
+  - Jingqing Li
+  - Man Liu
+  - Wenshu Tang
+  - Yu Feng
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Philip Chun Yeung
+  - John Wong
+  - Paul Bo-San Lai
+  - Anthony Wing-Hung Chan
+  - Ka Fai To
+  - Stephen Lam Chan
+  - Qiang Xia
+  - Jing Xue
+  - Xiao Chen
+  - Jun Yu
+  - Sui Peng
+  - Joseph Jao-Yiu Sung
+  - Ming Kuang
+  - Alfred Sze-Lok Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2020-08-10'
+  link: https://doi.org/gr2pqc
+  type: paper
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8115036/bin/41423_2020_534_Fig6_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1136/gutjnl-2018-317257
   title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
     efficacy in hepatocellular carcinoma
@@ -152,10 +328,42 @@
   publisher: Gut
   date: '2020-01-07'
   link: https://doi.org/gk43x8
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg
   tags:
   - Epigenomic
   - Microenvironment
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-11274-x
+  title: ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic
+    reprogramming of oxLDL lipophagy
+  authors:
+  - Yuan Tian
+  - Bin Yang
+  - Weinan Qiu
+  - Yajing Hao
+  - Zhenxing Zhang
+  - Bo Yang
+  - Nan Li
+  - Shuqun Cheng
+  - Zhangjun Lin
+  - Yao-cheng Rui
+  - Otto K. W. Cheung
+  - Weiqin Yang
+  - William K. K. Wu
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Jianjun Luo
+  - Joseph J. Y. Sung
+  - Runsheng Chen
+  - Hong-Yang Wang
+  - Alfred S. L. Cheng
+  - Pengyuan Yang
+  publisher: Nature Communications
+  date: '2019-07-29'
+  link: https://doi.org/gj24dm
+  type: paper
+  image: https://www.dropbox.com/s/6162aqu49ux0yv7/Tianyuan_NC.jpg?dl=0
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1136/gutjnl-2017-314032
@@ -186,6 +394,6 @@
   date: '2018-04-06'
   link: https://doi.org/gbx247
   type: paper
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5961939/bin/nihms966563f1.jpg
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg
   plugin: sources.py
   file: sources.yaml
