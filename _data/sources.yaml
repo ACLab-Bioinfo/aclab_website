@@ -65,9 +65,23 @@
 
 - id: doi:10.1038/s41467-019-11274-x
   type: paper
-  image: https://www.dropbox.com/s/6162aqu49ux0yv7/Tianyuan_NC.jpg?dl=0
+  image: images/research.img/Tianyuan_NC.jpg
   date: 2019-7-29
 
+- id: doi:10.1038/s41467-018-08245-z
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+  date: 2019-1-18
+
+- id: doi:10.1101/gr.240036.118
+  type: paper
+  image: https://genome.cshlp.org/content/29/4/543/F1.medium.gif
+  date: 2019-2-11
+
+- id: doi:10.1038/s41467-018-07402-8
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig1_HTML.png?as=webp
+  date: 2018-11-6
 
 - id: doi:10.1136/gutjnl-2017-314032
   type: paper
