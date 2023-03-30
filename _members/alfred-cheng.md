@@ -2,6 +2,7 @@
 name: Prof. CHENG Sze Lok Alfred
 image: images/members.img/alfredcheng.png
 role: pi
+
 aliases:
   - CHENG Sze Lok Alfred
   - Alfred Cheng

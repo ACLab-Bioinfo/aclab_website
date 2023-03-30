@@ -14,7 +14,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" && "group: current" %}
 
 {% capture content %}
 
@@ -24,6 +24,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
   
 {% endcapture %}
 
+{% include grid.html style="square" content=content %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 {:.center}
@@ -34,4 +35,3 @@ Alumni
 {% include list.html data="members" component="portrait" filters="group: alum" %}
 
 
-{% include grid.html style="square" content=content %}
