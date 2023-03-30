@@ -36,7 +36,7 @@ test test
   include feature.html
   image="images/photo.jpg"
   link="news"
-  title="Our PI"
+  title="Prof. CHENG Sze Lok Alfred (鄭詩樂)"
   flip=false
   style="bare"
   text=text
