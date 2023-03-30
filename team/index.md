@@ -14,7 +14,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" && "group: current" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" filters="group: current" %}
 
 {% capture content %}
 
