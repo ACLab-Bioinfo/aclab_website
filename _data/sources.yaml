@@ -16,8 +16,21 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1126/scitranslmed.aaz6804
+  type: paper
+  description: test test
+  date: 2021-4-7
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  tags:
+    - HDAC8
+    - ICB
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1136/gutjnl-2018-317257
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: 2020-1-7
+  tags:
+    - Epigenomic
+    - Microenvironment
