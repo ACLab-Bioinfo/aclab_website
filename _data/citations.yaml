@@ -363,7 +363,101 @@
   date: '2019-07-29'
   link: https://doi.org/gj24dm
   type: paper
-  image: https://www.dropbox.com/s/6162aqu49ux0yv7/Tianyuan_NC.jpg?dl=0
+  image: images/research.img/Tianyuan_NC.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-08245-z
+  title: Aberrant enhancer hypomethylation contributes to hepatic carcinogenesis through
+    global transcriptional reprogramming
+  authors:
+  - Lei Xiong
+  - Feng Wu
+  - Qiong Wu
+  - Liangliang Xu
+  - Otto K. Cheung
+  - Wei Kang
+  - Myth T. Mok
+  - Lemuel L. M. Szeto
+  - Cheuk-Yin Lun
+  - Raymond W. Lung
+  - Jinglin Zhang
+  - Ken H. Yu
+  - Sau-Dan Lee
+  - Guangcun Huang
+  - Chiou-Miin Wang
+  - Joseph Liu
+  - Zhuo Yu
+  - Dae-Yeul Yu
+  - Jian-Liang Chou
+  - Wan-Hong Huang
+  - Bo Feng
+  - Yue-Sun Cheung
+  - Paul B. Lai
+  - Patrick Tan
+  - Nathalie Wong
+  - Michael W. Chan
+  - Tim H. Huang
+  - Kevin Y. Yip
+  - Alfred S. Cheng
+  - Ka-Fai To
+  publisher: Nature Communications
+  date: '2019-01-18'
+  link: https://doi.org/gmf2s7
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.240036.118
+  title: New guidelines for DNA methylome studies regarding 5-hydroxymethylcytosine
+    for understanding transcriptional regulation
+  authors:
+  - Le Li
+  - Yuwei Gao
+  - Qiong Wu
+  - Alfred S.L. Cheng
+  - Kevin Y. Yip
+  publisher: Genome Research
+  date: '2019-02-11'
+  link: https://doi.org/ggqztr
+  type: paper
+  image: https://genome.cshlp.org/content/29/4/543/F1.medium.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-07402-8
+  title: An inflammatory-CCRK circuitry drives mTORC1-dependent metabolic and immunosuppressive
+    reprogramming in obesity-associated hepatocellular carcinoma
+  authors:
+  - Hanyong Sun
+  - Weiqin Yang
+  - Yuan Tian
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Myth T. S. Mok
+  - Wenshu Tang
+  - Yu Feng
+  - Liangliang Xu
+  - Anthony W. H. Chan
+  - Joanna H. Tong
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Hector K. S. Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Mengying Hu
+  - Rihe Liu
+  - Leaf Huang
+  - Bing Yang
+  - Pengyuan Yang
+  - Ka-Fai To
+  - Joseph J. Y. Sung
+  - Grace L. H. Wong
+  - Vincent W. S. Wong
+  - Alfred S. L. Cheng
+  publisher: Nature Communications
+  date: '2018-11-06'
+  link: https://doi.org/ggpbjq
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1136/gutjnl-2017-314032
