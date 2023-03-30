@@ -15,8 +15,36 @@ Our lab is dedicated to advancing biomedical research in hepatocellular carcinom
 
 {% include section.html %}
 
-## Highlights
+## Meet our PI
 
+{% capture text %}
+
+test test
+
+{%
+  include button.html
+  link="tools"
+  text="Meet our PI"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="news"
+  title="Our PI"
+  flip=false
+  style="bare"
+  text=text
+%}
+
+
+
+## Highlights
 
 {% capture text %}
 

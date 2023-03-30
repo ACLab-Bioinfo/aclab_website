@@ -16,6 +16,32 @@
     - collaboration
   repo: greenelab/meta-review
 
+
+- id: doi:10.1016/j.ymthe.2022.09.012
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
+  date: 2023-1-4
+
+- id: doi:10.1021/acs.jmedchem.2c01132
+  type: paper
+  image: https://pubs.acs.org/cms/10.1021/acs.jmedchem.2c01132/asset/images/medium/jm2c01132_0026.gif
+  date: 2022-11-30
+
+- id: doi:10.1038/s41423-022-00872-3
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41423-022-00872-3/MediaObjects/41423_2022_872_Fig7_HTML.png
+  date: 2022-5-20
+
+- id: doi:10.1016/j.canlet.2021.10.039
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304383521005553-gr1.jpg
+  date: 2022-1-28
+
+- id: doi:10.3390/cancers13102418
+  type: review
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8156220/bin/cancers-13-02418-g001.jpg
+  date: 2021-5-17
+
 - id: doi:10.1126/scitranslmed.aaz6804
   type: paper
   description: test test
@@ -25,14 +51,26 @@
     - Epigenomic
     - ICB
 
+- id: doi:10.1038/s41423-020-00534-2
+  type: paper
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8115036/bin/41423_2020_534_Fig6_HTML.jpg
+  date: 2020-8-10
+
 - id: doi:10.1136/gutjnl-2018-317257
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg
   date: 2020-1-7
   tags:
     - Epigenomic
     - Microenvironment
 
+- id: doi:10.1038/s41467-019-11274-x
+  type: paper
+  image: https://www.dropbox.com/s/6162aqu49ux0yv7/Tianyuan_NC.jpg?dl=0
+  date: 2019-7-29
+
+
 - id: doi:10.1136/gutjnl-2017-314032
   type: paper
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5961939/bin/nihms966563f1.jpg
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg
   date: 2018-4-6
+
