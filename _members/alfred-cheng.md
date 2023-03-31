@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-cheng-sze-lok-alfred
   orcid: 0000-0003-2345-6951
+  email: alfredcheng@cuhk.edu.hk
 ---
 
 # Biography
@@ -24,6 +25,7 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 
 <details>
 <summary> More</summary>
+
 * Best Presentation Award, SBS Research Day, 2016
 * Young Researcher Award 2014, CUHK, 2015
 * Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014
@@ -39,6 +41,7 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004
 * Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001
 * Arthur Yau Award, Hong Kong Orthopaedic Association, 1997 
+
 </details>
 
 
@@ -55,6 +58,7 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 
 <details>
 <summary> More</summary>
+
 6.	PI, Research Grants Council, General Research Fund, Resistance to immune checkpoint targeting in hepatocellular carcinoma: Role of tumor interferon signaling (HK$1,195,542) 2021 – 2022.
 7.	PI, RGC, General Research Fund 2019/20, Molecular and functional characterization of the immunoregulatory CCRK-mTOR pathway in NAFLD-associated hepatocellular carcinoma (HK$1,049,917), 2020 – 2022.
 8.	PI, CUHK, Direct Grant for Research 2019/20, Immunometabolic mechanism in NAFLD-associated HCC (HK$62,000), 2020 – 2021.
@@ -87,4 +91,5 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 35.	Co-PI, RGC, Collaborative Research Fund 2007/08, Centre for MicroRNA Study – Basic Research and Clinical Potentials in Cancer (HK$5,700,000), 2009 – 2012.
 36.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Helicobacter pylori-induced DNA methylation during gastric carcinogenesis (HK$867,966), 2008 – 2010.
 37.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Elucidating gene regulatory networks of HBx isolated from novel HBV subgenotype/mutants associated with increased risk of hepatocellular carcinoma (HK$799,216), 2008 – 2010.
+
 </details>
