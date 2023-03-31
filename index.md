@@ -1,13 +1,15 @@
 ---
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
 ---
 
-# Alfred Lab
 
-{:.center}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-{% include section.html full=true %}
-
-{% include banner.html image="images/main.img/banner.png" %}
 
 {% include section.html %}
 
