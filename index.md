@@ -119,3 +119,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+{% include section.html %}
+
+{:.center}
+## Affiliation
+
+{:.center}
+{% include banner.html image="images/Affiliation.png" %}
