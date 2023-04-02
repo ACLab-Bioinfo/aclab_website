@@ -31,6 +31,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-carousel
 highlighter: rouge
 theme: null
 sass:
@@ -42,8 +43,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@ACLab-Bioinfo.com
+email: alfredlabmailing@gmail.com
 github: ACLab-Bioinfo
-twitter: ACLab-Bioinfo
 instagram: ACLab-Bioinfo
 youtube: ACLab-Bioinfo
