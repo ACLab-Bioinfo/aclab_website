@@ -442,15 +442,15 @@
 
   <section class="background" data-size="cover" data-dark="">
     <div class="carousel__holder">
-    <div id="carousel0" class="carousel">
+    <div id="carousel-1" class="carousel">
         
-          <input class="carousel__activator" type="radio" name="carousel0" id="0a" checked>
+          <input class="carousel__activator" type="radio" name="carousel-1" id="-1a" checked>
         
-          <input class="carousel__activator" type="radio" name="carousel0" id="0b">
+          <input class="carousel__activator" type="radio" name="carousel-1" id="-1b">
         
-          <input class="carousel__activator" type="radio" name="carousel0" id="0c">
+          <input class="carousel__activator" type="radio" name="carousel-1" id="-1c">
         
-          <input class="carousel__activator" type="radio" name="carousel0" id="0d">
+          <input class="carousel__activator" type="radio" name="carousel-1" id="-1d">
         
         
           
@@ -458,8 +458,8 @@
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0d"></label>
-              <label class="carousel__control carousel__control--forward" for="0b"></label>
+              <label class="carousel__control carousel__control--backward" for="-1d"></label>
+              <label class="carousel__control carousel__control--forward" for="-1b"></label>
           </div>
         
           
@@ -467,8 +467,8 @@
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0a"></label>
-              <label class="carousel__control carousel__control--forward" for="0c"></label>
+              <label class="carousel__control carousel__control--backward" for="-1a"></label>
+              <label class="carousel__control carousel__control--forward" for="-1c"></label>
           </div>
         
           
@@ -476,8 +476,8 @@
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0b"></label>
-              <label class="carousel__control carousel__control--forward" for="0d"></label>
+              <label class="carousel__control carousel__control--backward" for="-1b"></label>
+              <label class="carousel__control carousel__control--forward" for="-1d"></label>
           </div>
         
           
@@ -485,8 +485,8 @@
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0c"></label>
-              <label class="carousel__control carousel__control--forward" for="0a"></label>
+              <label class="carousel__control carousel__control--backward" for="-1c"></label>
+              <label class="carousel__control carousel__control--forward" for="-1a"></label>
           </div>
         
         <div class="carousel__track">
@@ -508,13 +508,13 @@
         </div>
         <div class="carousel__indicators">
             
-              <label class="carousel__indicator" for="0a"></label>
+              <label class="carousel__indicator" for="-1a"></label>
             
-              <label class="carousel__indicator" for="0b"></label>
+              <label class="carousel__indicator" for="-1b"></label>
             
-              <label class="carousel__indicator" for="0c"></label>
+              <label class="carousel__indicator" for="-1c"></label>
             
-              <label class="carousel__indicator" for="0d"></label>
+              <label class="carousel__indicator" for="-1d"></label>
             
         </div>
     </div>
@@ -792,7 +792,7 @@
   
   setInterval(function(){
     var j=0;
-    var elements = document.querySelectorAll('#carousel0 .carousel__control--forward');
+    var elements = document.querySelectorAll('#carousel-1 .carousel__control--forward');
     for(i=(elements.length - 1);i>-1;i--) {
       if(isVisible(elements[i])) j=i;
     }
