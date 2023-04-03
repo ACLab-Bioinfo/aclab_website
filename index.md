@@ -5,17 +5,10 @@ carousels:
     - image: /images/photo.jpg
     - image: /images/photo.jpg
     - image: /images/photo.jpg
-  - images: 
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
 ---
 
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 
 {% include section.html %}
@@ -32,7 +25,7 @@ test test
 
 {%
   include button.html
-  link="tools"
+  link="members/alfred-cheng.html"
   text="Meet our PI"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -44,7 +37,7 @@ test test
 {%
   include feature.html
   image="images/photo.jpg"
-  link="news"
+  link="members/alfred-cheng.html"
   title="Prof. CHENG Sze Lok Alfred (鄭詩樂)"
   flip=false
   style="bare"
@@ -61,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
+  link="news"
   text="Check our news"
   icon="fa-solid fa-arrow-right"
   flip=true
