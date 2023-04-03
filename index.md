@@ -1,14 +1,21 @@
 ---
 carousels:
   - images: 
-    - image: /images/main.img/banner.png
-    - image: /images/main.img/SBS_logo.png
-    - image: /images/banner.png
-    - image: /images/main.img/SBS_logo.png
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
+  - images: 
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
+    - image: /images/photo.jpg
 ---
 
 
-{% include carousel.html height="50" unit="%" duration="7" images=carousels %}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 
 {% include section.html %}
