@@ -1,9 +1,10 @@
 ---
 carousels:
-  - image: /images/main.img/banner.png
-  - image: /images/main.img/SBS_logo.png
-  - image: /images/banner.png
-  - image: /images/main.img/SBS_logo.png
+  - images: 
+    - image: /images/main.img/banner.png
+    - image: /images/main.img/SBS_logo.png
+    - image: /images/banner.png
+    - image: /images/main.img/SBS_logo.png
 ---
 
 
