@@ -12,11 +12,6 @@
   {% if dark == true %}
     data-dark="{{ dark }}"
   {% endif %}
-  <!--
-    {% if page.url == "/" %}
-    data-big
-  {% endif %}
-  //-->
 >
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
@@ -29,7 +24,7 @@
       </span>
     {% endif %}
     {% if site["logo-text"] != false %}
-      <span class="title" data-tooltip="Home">
+      <span class="title" >
         {% if site.title %}
           <span>{{ site.title }}</span>
         {% endif %}
