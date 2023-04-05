@@ -6,7 +6,6 @@
   background: var(--background);
   color: var(--text);
   z-index: 1;
-  padding:45px 0 20px;
   font-size:14px;
   line-height:24px;
 }
@@ -19,7 +18,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.5;
+  opacity: 0.35;
   z-index: -1;
 }
 
