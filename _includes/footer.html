@@ -1,6 +1,8 @@
 {% assign image = page.footer | default: site.footer | relative_url %}
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
+@import "bootstrap/scss/grid";
+
 <footer
   class="background"
   style="--image: url('{{ image }}')"
