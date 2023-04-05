@@ -1,10 +1,10 @@
 ---
 carousels:
   - images: 
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
-    - image: /images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
 ---
 
 
@@ -123,8 +123,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include section.html %}
 
-{:.center}
-## Affiliation
-
-{:.center}
-{% include banner.html image="images/Affiliation.png" %}
