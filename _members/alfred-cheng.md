@@ -2,7 +2,6 @@
 name: Prof. CHENG Sze Lok Alfred
 image: images/members.img/alfredcheng.png
 role: pi
-
 aliases:
   - CHENG Sze Lok Alfred
   - Alfred Cheng
@@ -23,7 +22,7 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * Visiting Professorship, Southwest Medical University, 2018
 * Asa Briggs Visiting Fellowship, University of Sussex, 2017
 * <details>
-   <summary markdown="span"> More</summary>
+  <summary> More</summary>
     * Best Presentation Award, SBS Research Day, 2016 <br>
     * Young Researcher Award 2014, CUHK, 2015  <br>
     * Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014 <br>
@@ -39,7 +38,7 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
     * AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004 <br>
     * Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001 <br>
     * Arthur Yau Award, Hong Kong Orthopaedic Association, 1997 <br>
-  </details>
+</details>
 
 
 # RESEARCH SUPPORT
@@ -51,7 +50,8 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 2. PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
 3. Co-PI, RGC, Research Impact Fund 2020/21, Development and applications of a driver-dependent tumor organoid biobank for translational liver cancer research (HK$4,100,000), 2021 – 2025.
 4. PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.
-5. PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.
+5. PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.  
+
 * <details>
   <summary> More</summary>
       6.	PI, Research Grants Council, General Research Fund, Resistance to immune checkpoint targeting in hepatocellular carcinoma: Role of tumor interferon signaling (HK$1,195,542) 2021 – 2022. <br>
@@ -86,5 +86,4 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
       35.	Co-PI, RGC, Collaborative Research Fund 2007/08, Centre for MicroRNA Study – Basic Research and Clinical Potentials in Cancer (HK$5,700,000), 2009 – 2012. <br>
       36.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Helicobacter pylori-induced DNA methylation during gastric carcinogenesis (HK$867,966), 2008 – 2010. <br>
       37.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Elucidating gene regulatory networks of HBx isolated from novel HBV subgenotype/mutants associated with increased risk of hepatocellular carcinoma (HK$799,216), 2008 – 2010. <br>
-  </details>
-
+</details>
