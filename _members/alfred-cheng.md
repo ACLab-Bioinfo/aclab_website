@@ -24,23 +24,21 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * Asa Briggs Visiting Fellowship, University of Sussex, 2017
 * <details>
    <summary markdown="span"> More</summary>
-    <ul>
-      <li>Best Presentation Award, SBS Research Day, 2016 </li>
-      <li>Young Researcher Award 2014, CUHK, 2015</li>
-      <li>Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014</li>
-      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2013</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2013</li>
-      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2012</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2012</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2011</li>
-      <li>High-impact Scholarship 2011-12, CUHK, 2012</li>
-      <li>Research Excellence Award 2011-12, CUHK, 2012</li>
-      <li>AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research (AACR), 2006</li>
-      <li>AACR-AFLAC Scholar-in-Training Award, AACR, 2004</li>
-      <li>AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004</li>
-      <li>Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001</li>
-      <li>Arthur Yau Award, Hong Kong Orthopaedic Association, 1997</li>
-    </ul>
+    * Best Presentation Award, SBS Research Day, 2016 <br>
+    * Young Researcher Award 2014, CUHK, 2015  <br>
+    * Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014 <br>
+    * Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2013 <br>
+    * Travel Grant Award for Basic Scientists, UEGW, 2013 <br>
+    * Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2012 <br>
+    * Travel Grant Award for Basic Scientists, UEGW, 2012 <br>
+    * Travel Grant Award for Basic Scientists, UEGW, 2011 <br>
+    * High-impact Scholarship 2011-12, CUHK, 2012 <br>
+    * Research Excellence Award 2011-12, CUHK, 2012 <br>
+    * AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research (AACR), 2006 <br>
+    * AACR-AFLAC Scholar-in-Training Award, AACR, 2004 <br>
+    * AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004 <br>
+    * Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001 <br>
+    * Arthur Yau Award, Hong Kong Orthopaedic Association, 1997 <br>
   </details>
 
 
@@ -49,11 +47,11 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 
 *Selected grant record in cancer immunology and cancer epigenetics:*
 
-* PI, Li Ka Shing (Canada) Foundation, A pilot study of personalized cancer treatment for cancers in the digestive system (HK$7,011,109) 2023 – 2025.  
-* PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
-* Co-PI, RGC, Research Impact Fund 2020/21, Development and applications of a driver-dependent tumor organoid biobank for translational liver cancer research (HK$4,100,000), 2021 – 2025.
-* PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.
-* PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.
+1. PI, Li Ka Shing (Canada) Foundation, A pilot study of personalized cancer treatment for cancers in the digestive system (HK$7,011,109) 2023 – 2025.  
+2. PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
+3. Co-PI, RGC, Research Impact Fund 2020/21, Development and applications of a driver-dependent tumor organoid biobank for translational liver cancer research (HK$4,100,000), 2021 – 2025.
+4. PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.
+5. PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.
 * <details>
   <summary> More</summary>
       6.	PI, Research Grants Council, General Research Fund, Resistance to immune checkpoint targeting in hepatocellular carcinoma: Role of tumor interferon signaling (HK$1,195,542) 2021 – 2022. <br>
