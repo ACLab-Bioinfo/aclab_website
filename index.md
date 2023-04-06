@@ -42,7 +42,6 @@ Our lab is dedicated to advancing biomedical research in hepatocellular carcinom
   text=text
 %}
 
-
 ## Highlights
 
 {% capture text %}
