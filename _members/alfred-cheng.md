@@ -22,29 +22,27 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * Experts Panel for Ministry of Science and Technology of China, People Republic of China, 2018 
 * Visiting Professorship, Southwest Medical University, 2018
 * Asa Briggs Visiting Fellowship, University of Sussex, 2017
-
-<div style="float: left;">
-  <details>
+* <details>
   <summary markdown="span"> More</summary>
-  <div style="float: left;">
-* Best Presentation Award, SBS Research Day, 2016 <br>
-* Young Researcher Award 2014, CUHK, 2015 <br>
-* Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014 <br>
-* Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2013 <br>
-* Travel Grant Award for Basic Scientists, UEGW, 2013 <br>
-* Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2012 <br>
-* Travel Grant Award for Basic Scientists, UEGW, 2012 <br>
-* Travel Grant Award for Basic Scientists, UEGW, 2011 <br>
-* High-impact Scholarship 2011-12, CUHK, 2012 <br>
-* Research Excellence Award 2011-12, CUHK, 2012 <br>
-* AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research (AACR), 2006 <br>
-* AACR-AFLAC Scholar-in-Training Award, AACR, 2004 <br>
-* AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004 <br>
-* Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001 <br>
-* Arthur Yau Award, Hong Kong Orthopaedic Association, 1997 <br>
-</div>
+    <ul>
+      <li>Best Presentation Award, SBS Research Day, 2016 </li>
+      <li>Young Researcher Award 2014, CUHK, 2015</li>
+      <li>Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014</li>
+      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2013</li>
+      <li>Travel Grant Award for Basic Scientists, UEGW, 2013</li>
+      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2012</li>
+      <li>Travel Grant Award for Basic Scientists, UEGW, 2012</li>
+      <li>Travel Grant Award for Basic Scientists, UEGW, 2011</li>
+      <li>High-impact Scholarship 2011-12, CUHK, 2012</li>
+      <li>Research Excellence Award 2011-12, CUHK, 2012</li>
+      <li>AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research (AACR), 2006</li>
+      <li>AACR-AFLAC Scholar-in-Training Award, AACR, 2004</li>
+      <li>AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004</li>
+      <li>Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001</li>
+      <li>Arthur Yau Award, Hong Kong Orthopaedic Association, 1997</li>
+    </ul>
 </details>
-</div>
+
 
 # RESEARCH SUPPORT
 Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 5GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$112,000,000.
