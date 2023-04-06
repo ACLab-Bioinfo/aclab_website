@@ -23,10 +23,10 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * Visiting Professorship, Southwest Medical University, 2018
 * Asa Briggs Visiting Fellowship, University of Sussex, 2017
 
-{: .alert .alert-info .text-justify}
-<details>
-<summary markdown="span"> More</summary>
-
+<div style="float: left;">
+  <details>
+  <summary markdown="span"> More</summary>
+  <div style="float: left;">
 * Best Presentation Award, SBS Research Day, 2016 <br>
 * Young Researcher Award 2014, CUHK, 2015 <br>
 * Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014 <br>
@@ -42,8 +42,9 @@ Prof. CHENG Sze Lok Alfred (鄭詩樂) is a Professor in the School of Biomedica
 * AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004 <br>
 * Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001 <br>
 * Arthur Yau Award, Hong Kong Orthopaedic Association, 1997 <br>
+</div>
 </details>
-
+</div>
 
 # RESEARCH SUPPORT
 Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 5GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$112,000,000.
@@ -56,10 +57,11 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 4.	PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.
 5.	PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.
 
-{: .alert .alert-info .text-justify}
+<div style="float: left;">
+
 <details>
 <summary> More</summary>
-
+<div style="float: left;">
 6.	PI, Research Grants Council, General Research Fund, Resistance to immune checkpoint targeting in hepatocellular carcinoma: Role of tumor interferon signaling (HK$1,195,542) 2021 – 2022. <br>
 7.	PI, RGC, General Research Fund 2019/20, Molecular and functional characterization of the immunoregulatory CCRK-mTOR pathway in NAFLD-associated hepatocellular carcinoma (HK$1,049,917), 2020 – 2022. <br>
 8.	PI, CUHK, Direct Grant for Research 2019/20, Immunometabolic mechanism in NAFLD-associated HCC (HK$62,000), 2020 – 2021. <br>
@@ -92,5 +94,6 @@ Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1
 35.	Co-PI, RGC, Collaborative Research Fund 2007/08, Centre for MicroRNA Study – Basic Research and Clinical Potentials in Cancer (HK$5,700,000), 2009 – 2012. <br>
 36.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Helicobacter pylori-induced DNA methylation during gastric carcinogenesis (HK$867,966), 2008 – 2010. <br>
 37.	PI, Food & Health Bureau, Research Fund for the Control of Infectious Diseases 2007/08, Elucidating gene regulatory networks of HBx isolated from novel HBV subgenotype/mutants associated with increased risk of hepatocellular carcinoma (HK$799,216), 2008 – 2010. <br>
-
+</div>
 </details>
+</div>
