@@ -36,7 +36,7 @@ Our lab is dedicated to advancing biomedical research in hepatocellular carcinom
   include feature.html
   image="images/members.img/alfredcheng_3-2.png"
   link="members/alfred-cheng.html"
-  title="Prof. CHENG Sze Lok Alfred (鄭詩樂)"
+  title="Prof. CHENG Sze Lok Alfred 鄭詩樂教授"
   flip=false
   style="bare"
   text=text
