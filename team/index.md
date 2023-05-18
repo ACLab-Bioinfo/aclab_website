@@ -26,12 +26,13 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include grid.html style="square" content=content %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+
 {:.center}
-Alumni
+----- Former Lab Members -----
 
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+| Name   | Lab Position        | Current Position                        |
+| ------ | ------------------- | --------------------------------------- |
+| Test   | Ph.D. Student       | test                                    |
+| Test   | Postdoctoral Fellow | test                                    |
 
 
