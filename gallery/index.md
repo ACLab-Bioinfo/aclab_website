@@ -6,4 +6,4 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Gallery
 
-{% include image-gallery.html folder="/uploads/album" %}
+{% include image-gallery.html folder="/images/gallery.img" %}
