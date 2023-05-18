@@ -6,11 +6,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Opportunities
 
-We give careful, individual attention to each applicant. If you’re interested in joining us, please email a **cover letter, CV, and two letters of reference** to Prof. Alfred Cheng (alfredcheng@cuhk.edu.hk)
+We seek highly-motivated individuals to join our lab! We have multiple positions available at different levels:​
+* PhD Student
+* Postdoctoral Researcher
+* Research Assistant
+* Visiting Scholar
 
+Research background in  would be an advantage. 
 
-Following positions are available:
-* test2
+We give careful, individual attention to each applicant. If you’re interested in joining us, please email **cover letter, CV, and two letters of reference** to Prof. Alfred Cheng (alfredcheng@cuhk.edu.hk)
+
 
 
 {% include section.html %}
@@ -26,6 +31,7 @@ Our lab is part of the Chinese University of Hong Kong, Faculty of Medicine's Sc
 
 {% include button.html type="address" text="Address" link="https://www.google.com/maps/place/沙田罗桂祥综合生物医学大楼/@22.4274869,114.2017993,17z/data=!3m1!4b1!4m6!3m5!1s0x3404089018f1d2b9:0xbaeb2c45830d7f66!8m2!3d22.4274869!4d114.203988!16s%2Fg%2F11dyhy571" %}
 
+<!--
 {% include section.html %}
 
 {% capture content %}
@@ -39,6 +45,7 @@ Our lab is part of the Chinese University of Hong Kong, Faculty of Medicine's Sc
 {% include grid.html content=content style="square" %}
 
 {% include section.html %}
+-->
 
 ## Useful links
 [MPhil-PhD in Biomedical Sciences, Graduate Education](https://www2.sbs.cuhk.edu.hk/en-gb/education/graduate-education)  
