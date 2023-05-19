@@ -6,18 +6,14 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Gallery
 
-{% include image-gallery.html folder="/images/gallery.img" %}
-
-{% include section.html %}
-
 {% capture content %}
-
-{% include figure.html image="images/joinus.img/CUHK.JPG" %}
-{% include figure.html image="images/joinus.img/SBS_building.png" %}
-{% include figure.html image="images/contact/cu-photo.jpg" %}
-
+  {% include figure.html image="images/photo.jpg" title = "Test1" %}
+  {% include figure.html image="images/photo.jpg" title = "Test2" %}
+  {% include figure.html image="images/photo.jpg" title = "Test3" %}
 {% endcapture %}
 
-{% include grid.html content=content style="square" %}
-
-{% include section.html %}
+{%
+  include cols.html
+  content=content
+  style="square"
+%}

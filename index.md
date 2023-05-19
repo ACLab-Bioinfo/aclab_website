@@ -8,12 +8,12 @@ carousels:
 ---
 
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="40" unit="%" duration="7" number="1" %}
 
 
 {% include section.html %}
 
-Our lab is dedicated to advancing biomedical research in hepatocellular carcinoma (HCC) immunotherapy, a novel and promising treatment approach against one of the most frequent and lethal liver cancers worldwide. We use multi-omics techniques to unravel the complex interactions in tumor microenvironment, as well as the epigenetic changes that occur during drug resistance. Our goal is to identify new biomarkers and therapeutic targets for HCC immunotherapy, and to optimize its efficacy. By applying cutting-edge technologies and collaborating with leading experts in the field, we aim to contribute to the development of personalized and effective immunotherapy strategies for HCC patients.
+As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer, our laboratory aims at identifying the cause (*etio* in Greek) and solution of cancer therapeutic resistance. On the one hand, we apply the cutting-edge single-cell multi-omics and AI innovation to understand tumor adaptation to immune-checkpoint blockade (ICB) and uncover the epigenetic and transcriptional programs underlying immunotherapeutic resistance. On the other hand, we develop effective and durable combination immunotherapies for clinical translation. A prime example is a novel class I HDAC-targeted epigenetic immunotherapy, which has secured governmental and industrial support to commence a Phase-II clinical trial for hepatocellular carcinoma patients resisting to ICB therapy. Through collaborations with leading experts in the field, our research is expected to have major impact in both basic research and treatment for this fatal cancer.   
 
 {% include section.html %}
 
