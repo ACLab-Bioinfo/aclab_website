@@ -22,6 +22,10 @@ ra:
   icon: fa-solid fa-handshake-angle
   description: Research Assistant 
 
+rasso:
+  icon: fa-solid fa-microscope
+  description: Research Associate 
+
 visit:
   icon: fa-solid fa-user-tie
   description: Visiting Scholar
