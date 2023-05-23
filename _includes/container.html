@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* CSS styles for the columns */
+      .container {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .column {
+        width: 45%; /* Adjust the width as needed */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="column">
+        <!-- Content for the left column -->
+        {{ content.left }}
+      </div>
+      <div class="column">
+        <!-- Content for the right column -->
+        {{ content.right }}
+      </div>
+    </div>
+  </body>
+</html>
