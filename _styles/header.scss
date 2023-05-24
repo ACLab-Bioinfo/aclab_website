@@ -65,7 +65,8 @@ header a {
 
 // subtitle
 .title > *:last-child {
-  color: var(--gray);
+  font-size: var(--medium);
+  color: var(--white);
   font-weight: var(--thin);
 }
 
