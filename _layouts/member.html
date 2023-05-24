@@ -14,13 +14,13 @@ layout: default
   {% endfor %}
 </div>
 
-{{ content }}
+{{ content.left }}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{{ content }}
+{{ content.right }}
 
 {% assign aliases = page.aliases
   | default: page.name
