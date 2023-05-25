@@ -14,12 +14,12 @@ carousels:
 {% include section.html %}
 
 {% capture content %}
-  {% include figure.html ... %}
+  {% include figure.html image="images/main.img/mainpage.etio.png" %}
 {% endcapture %}
 ​
 {%
   include float.html
-  content="images/main.img/mainpage.etio.png"
+  content=content
   flip=true
 %}
 ​
