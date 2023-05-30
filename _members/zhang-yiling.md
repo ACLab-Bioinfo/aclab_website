@@ -1,6 +1,6 @@
 ---
 name: ZHANG Yiling
-image: images/members.img/zhangyiling.png
+image: images/members.img/zhangyiling.JPG
 role: phd
 group: current
 links:
@@ -8,4 +8,3 @@ links:
   email: yilingzhang@link.cuhk.edu.hk
 ---
 
-Test test

@@ -10,6 +10,8 @@ carousels:
 {% include carousel.html height="20" unit="%" duration="7" number="1" %}
 
 
+
+
 {% include section.html %}
 
 {% capture text %}
@@ -20,6 +22,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
   include feature.html
   image="images/main.img/mainpage.etio.png"
   link="research"
+  text=text
 %}
 
 {% include section.html %}
