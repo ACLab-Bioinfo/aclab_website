@@ -1,7 +1,7 @@
 [data-dark=false] {
   --primary: #6883A6;
   --secondary: #F2B56B;
-  --text: #000000;
+  --text: #2a2a2a;
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
@@ -25,7 +25,7 @@
   --heading: "Lato", sans-serif;
   --body: "Lato", sans-serif;
   --code: "Roboto Mono", monospace;
-  --medium: 1.2rem;
+  --medium: 1.1rem;
   --large: 1.3rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
@@ -33,7 +33,7 @@
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 1.5;
+  --spacing: 1.7;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
 }
