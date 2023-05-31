@@ -21,4 +21,10 @@ footer .icon {
   font-size: var(--xl);
 }
 
+footer .footer-image {
+  padding: 0 6rem 3rem;
+  max-width: 91.71429rem;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=footer.css.map */
