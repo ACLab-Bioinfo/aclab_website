@@ -16,13 +16,15 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" filters="role: ^(?!phd$)" filters="role: ^(?!postdoc$)" filters="role: ^(?!visit$)" %}
+
 {% include list.html data="members" component="portrait" filters="role: ra" filters="role: rasso" %}
 
-{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" filters="role: ^(?!phd$)" filters="role: ^(?!ra$)" filters="role: ^(?!rasso$)" %}
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" filters="role: visit"%}
 
-{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" filters="role: ^(?!postdoc$)" filters="role: ^(?!ra$)" filters="role: ^(?!rasso$)" filters="role: ^(?!visit$)"%}
 
 {% include list.html data="members" component="portrait" filters="role: phd" filters="role: undergrad" %}
 
@@ -41,12 +43,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 
 ## Former Lab Members 
-
-
-| Name   | Lab Position        | Current Position                        |
-| ------ | ------------------- | --------------------------------------- |
-| Test   | Ph.D. Student       | test                                    |
-| Test   | Postdoctoral Fellow | test                                    |
 
 
 <table style="width:90%">

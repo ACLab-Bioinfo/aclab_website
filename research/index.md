@@ -10,6 +10,10 @@ nav:
 * Tumor immunology and immunotherapy
 * Hepatocellular carcinoma (HCC)
 
+- [Cancer epigenetics](#Cancer epigenetics)
+- [Tumor immunology and immunotherapy](#Tumor immunology and immunotherapy)
+- Hepatocellular carcinoma (HCC)
+
 {% include section.html %}
 
 ## Cancer epigenetics
