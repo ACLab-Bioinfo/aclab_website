@@ -7,8 +7,7 @@ carousels:
     - image: images/photo.jpg
 ---
 
-{% include carousel.html height="20" unit="%" duration="7" number="1" %}
-
+{% include carousel.html height="20" width="35" unit="%" duration="7" number="1" %}
 
 
 
@@ -52,6 +51,8 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
   style="bare"
   text=text
 %}
+
+ {% include section.html %}
 
 ## Highlights
 
