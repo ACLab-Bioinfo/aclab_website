@@ -2,6 +2,12 @@
 title: Team
 nav:
   order: 4
+carousels:
+  - images: 
+    - image: images/members.img/groupPhoto1.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -18,18 +24,11 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% capture content %}
 
-  {% include figure.html image="images/members.img/groupPhoto1.jpg" %}
-  {% include figure.html image="images/photo.jpg" %}
-  {% include figure.html image="images/photo.jpg" %}
-  
-{% endcapture %}
+{% include carousel.html height="40" width="60" unit="%" duration="7" number="1" %}
 
-{% include grid.html style="square" content=content %}
 
 {% include section.html %}
-
 
 ## Former Lab Members 
 
@@ -37,8 +36,8 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <table style="width:100%">
 <colgroup>
 <col width="25%" />
-<col width="35%" />
-<col width="40%" />
+<col width="25%" />
+<col width="50%" />
 </colgroup>
 <thead>
 <tr class="header">
