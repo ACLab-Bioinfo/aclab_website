@@ -34,7 +34,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 ## Former Lab Members 
 
 
-<table style="width:90%">
+<table style="width:100%">
 <colgroup>
 <col width="25%" />
 <col width="35%" />

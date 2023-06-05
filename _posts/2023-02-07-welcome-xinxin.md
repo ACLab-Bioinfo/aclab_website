@@ -6,4 +6,3 @@ tags:
 ---
 
 Welcome Xinxin join us!  
-Test test
