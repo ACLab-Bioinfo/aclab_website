@@ -85,7 +85,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tr>
 <td markdown="span">XU Liangliang</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">"Senior Research Associate Peking University-Shenzhen Hospital (PKU-SZH)"</td>
+<td markdown="span">Senior Research Associate Peking University-Shenzhen Hospital (PKU-SZH)</td>
 </tr>
 <tr>
 <td markdown="span">WU Qiong</td>
