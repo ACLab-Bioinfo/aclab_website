@@ -9,8 +9,8 @@ We are happy to have Prof. WANG Jia and his team for a visit and academic commun
 
 
 <p align="center" width="95%">
-    <img width="49%" src="images/news.img/0428-3DMeeting-groupPhoto.png">
-    <img width="49%" src="images/news.img/0428-3DMeeting.png">
+    <img width="49%" src="images/news.img/0428-3DMeeting-groupPhoto.jpg">
+    <img width="49%" src="images/news.img/0428-3DMeeting.jpg">
 </p>
 
 
