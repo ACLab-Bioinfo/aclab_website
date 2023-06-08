@@ -1,7 +1,7 @@
 ---
 name: LIANG Jianxin
 image: images/members.img/liangjianxin.jpeg
-role: phd
+role: ra
 aliases:
   - Jianxin Liang
   - Jianxin LIANG

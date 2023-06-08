@@ -9,8 +9,8 @@ We are happy to have Prof. WANG Jia and his team for a visit and academic commun
 
 
 <p align="center" width="95%">
-    <img width="49%" src="images/news.img/0428-3DMeeting-groupPhoto.jpg">
-    <img width="49%" src="images/news.img/0428-3DMeeting.jpg">
+    <img width="49%" src="https://lh3.googleusercontent.com/pw/AJFCJaWs7kL33KSYR1UJ8E3BJgd4C6bgPR5aIZRtwnTm41XQIRxIqI8aECqYws66PmmOs9bILfLd9Gqam8HbNAr2MAIR9i3IMfZIosMdIJCBYbPsgIc6vMEaysvCqOiNv1JcE_kkh5sgWwzTQi3AZWU6brM=w1608-h1010-s-no">
+    <img width="49%" src="https://lh3.googleusercontent.com/pw/AJFCJaU8JKcV98MvIrLcUbT_vzrnJhnj7-8YjBBjCj41ijHFlviwCe1tgXSF3ZlMfS1K9Dh5nPBTmed3xFyxH8Td9B1dbsYU3s7UQu1oYNEYQ3p2G66D68n0RYFK5XuCrxVtddqujvOou0crLhAQpcOEUxo=w2178-h1452-s-no">
 </p>
 
 
