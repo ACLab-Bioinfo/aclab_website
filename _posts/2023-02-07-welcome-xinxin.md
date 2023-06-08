@@ -1,5 +1,5 @@
 ---
-title: Welcome our cute & talented RA Xinxin, Dr.LIANG Jianxin
+title: Welcome cute & talented RA Xinxin, Dr.LIANG Jianxin
 author: Yiling
 tags: 
   - Welcome

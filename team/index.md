@@ -4,7 +4,7 @@ nav:
   order: 4
 carousels:
   - images: 
-    - image: images/members.img/groupPhoto1.jpg
+    - image: https://lh3.googleusercontent.com/pw/AJFCJaWH_I7NCy63dA16ZmcKAzZQ1GbC0F71PyrB4uPsr3qvieTyO5Pr8lArg1ng2zRrNWg4ElYU1ZpMEUS4g7xRw66sYkIRd9NjiZkOqZd_vLp_k0a0bfMEjhqnMaHjulV-baBMJeZOyiAN1__2v9W7590=w1418-h1040-s-no
     - image: images/photo.jpg
     - image: images/photo.jpg
     - image: images/photo.jpg
@@ -24,6 +24,8 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+
+{% include section.html %}
 
 {% include carousel.html height="40" width="60" unit="%" duration="7" number="1" %}
 
