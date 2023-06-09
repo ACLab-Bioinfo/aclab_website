@@ -109,9 +109,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg
-  tags:
-  - Epigenomic
-  - Microenvironment
 - id: doi:10.1101/gr.240036.118
   title: New guidelines for DNA methylome studies regarding 5-hydroxymethylcytosine
     for understanding transcriptional regulation
@@ -3113,6 +3110,45 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1136/gutjnl-2022-328364
+  title: Targeting PPAR-gamma counteracts tumour adaptation to immune-checkpoint blockade
+    in hepatocellular carcinoma
+  authors:
+  - Zhewen Xiong
+  - Stephen Lam Chan
+  - Jingying Zhou
+  - Joaquim S.L. Vong
+  - Tsz Tung Kwong
+  - Xuezhen Zeng
+  - Haoran Wu
+  - Jianquan Cao
+  - Yalin Tu
+  - Yu Feng
+  - Weiqin Yang
+  - Patrick Pak-Chun Wong
+  - Willis Wai-Yiu Si-Tou
+  - Xiaoyu Liu
+  - Jing Wang
+  - Wenshu Tang
+  - Zhixian Liang
+  - Jiahuan Lu
+  - Ka Man Li
+  - Jie-Ting Low
+  - Michael Wing-Yan Chan
+  - Howard H.W. Leung
+  - Anthony W.H. Chan
+  - Ka-Fai To
+  - Kevin Yuk-Lap Yip
+  - Yuk Ming Dennis Lo
+  - Joseph Jao-Yiu Sung
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2023-04-05'
+  link: https://doi.org/gr9zwz
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ymthe.2022.09.012
   title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
     efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
@@ -3283,9 +3319,6 @@
   type: paper
   description: test test
   image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
-  tags:
-  - Epigenomic
-  - ICB
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41423-020-00534-2
