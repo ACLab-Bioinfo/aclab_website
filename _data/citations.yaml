@@ -147,25 +147,25 @@
     to promote ovarian cancer stemness
   authors:
   - Frank H. C. Cheng
-  - Hon-Yi Lin
-  - Tzy-Wei Hwang
-  - Yin-Chen Chen
-  - Rui-Lan Huang
-  - Chia-Bin Chang
+  - "Hon\u2010Yi Lin"
+  - "Tzy\u2010Wei Hwang"
+  - "Yin\u2010Chen Chen"
+  - "Rui\u2010Lan Huang"
+  - "Chia\u2010Bin Chang"
   - Weiqin Yang
-  - Ru-Inn Lin
-  - Ching-Wen Lin
+  - "Ru\u2010Inn Lin"
+  - "Ching\u2010Wen Lin"
   - Gary C. W. Chen
-  - Shu-Yuan Mai
+  - "Shu\u2010Yuan Mai"
   - Jora M. J. Lin
-  - Yu-Ming Chuang
-  - Jian-Liang Chou
-  - Li-Wei Kuo
+  - "Yu\u2010Ming Chuang"
+  - "Jian\u2010Liang Chou"
+  - "Li\u2010Wei Kuo"
   - Chin Li
   - Alfred S. L. Cheng
-  - Hung-Cheng Lai
-  - Shu-Fen Wu
-  - Je-Chiang Tsai
+  - "Hung\u2010Cheng Lai"
+  - "Shu\u2010Fen Wu"
+  - "Je\u2010Chiang Tsai"
   - Michael W. Y. Chan
   publisher: Cancer Science
   date: '2019-01-25'
@@ -575,8 +575,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1111/jcmm.13354
-  title: The oncogenic role of Epstein-Barr virus-encoded microRNAs in Epstein-Barr
-    virus-associated gastric carcinoma
+  title: "The oncogenic role of Epstein\u2013Barr virus\u2010encoded micro<scp>RNA</scp>s\
+    \ in Epstein\u2013Barr virus\u2010associated gastric carcinoma"
   authors:
   - Jinglin Zhang
   - Tingting Huang
@@ -618,13 +618,13 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/ijc.30414
-  title: EZH2 coupled with HOTAIR to silence MicroRNA-34a by the induction of heterochromatin
-    formation in human pancreatic ductal adenocarcinoma
+  title: "<scp>EZH</scp>2 coupled with <scp>HOTAIR</scp> to silence Micro<scp>RNA</scp>\u2010\
+    34a by the induction of heterochromatin formation in human pancreatic ductal adenocarcinoma"
   authors:
-  - Chi-Han Li
+  - "Chi\u2010Han Li"
   - Zhangang Xiao
-  - Joanna Hung-Man Tong
-  - Ka-Fai To
+  - "Joanna Hung\u2013Man Tong"
+  - "Ka\u2010Fai To"
   - Xiangdong Fang
   - Alfred SL Cheng
   - Yangchao Chen
@@ -906,7 +906,7 @@
   - Man Liu
   - Jingying Zhou
   - Zhiwei Chen
-  - Alfred Sze-Lok Cheng
+  - "Alfred Sze\u2010Lok Cheng"
   publisher: The Journal of Pathology
   date: '2016-11-29'
   link: https://doi.org/gmjrgw
@@ -1185,13 +1185,13 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/path.4688
-  title: "Yin Yang 1-mediated epigenetic silencing of tumour-suppressive microRNAs\
-    \ activates nuclear factor-\u03BAB in hepatocellular carcinoma"
+  title: "Yin Yang 1\u2010mediated epigenetic silencing of tumour\u2010suppressive\
+    \ microRNAs activates nuclear factor\u2010\u03BAB in hepatocellular carcinoma"
   authors:
   - Daisy PF Tsang
   - William KK Wu
   - Wei Kang
-  - Ying-Ying Lee
+  - "Ying\u2010Ying Lee"
   - Feng Wu
   - Zhuo Yu
   - Lei Xiong
@@ -1201,19 +1201,19 @@
   - May SM Li
   - Suki S Lau
   - Xiangchun Li
-  - Sau-Dan Lee
+  - "Sau\u2010Dan Lee"
   - Yihua Yang
   - Paul BS Lai
-  - Dae-Yeul Yu
+  - "Dae\u2010Yeul Yu"
   - Gang Xu
-  - Kwok-Wai Lo
+  - "Kwok\u2010Wai Lo"
   - Matthew TV Chan
   - Huating Wang
   - Tin L Lee
   - Jun Yu
   - Nathalie Wong
   - Kevin Y Yip
-  - Ka-Fai To
+  - "Ka\u2010Fai To"
   - Alfred SL Cheng
   publisher: The Journal of Pathology
   date: '2016-03-17'
@@ -1282,8 +1282,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/jcp.24967
-  title: "Autophagy Mediates HBx-Induced Nuclear Factor-\u03BAB Activation and Release\
-    \ of IL-6, IL-8, and CXCL2 in Hepatocytes"
+  title: "Autophagy Mediates HBx\u2010Induced Nuclear Factor\u2010\u03BAB Activation\
+    \ and Release of IL\u20106, IL\u20108, and CXCL2 in Hepatocytes"
   authors:
   - Millore X.M. Luo
   - Sunny H. Wong
@@ -1308,7 +1308,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4512
-  title: "CUL4B: a novel epigenetic driver in Wnt/\u03B2-catenin-dependent hepatocarcinogenesis"
+  title: "<scp>CUL4B</scp>: a novel epigenetic driver in Wnt/\u03B2\u2010catenin\u2010\
+    dependent hepatocarcinogenesis"
   authors:
   - Myth T.S. Mok
   - Alfred S.L. Cheng
@@ -1522,18 +1523,19 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/path.4554
-  title: Truncated HBx-dependent silencing of GAS2 promotes hepatocarcinogenesis through
-    deregulation of cell cycle, senescence and p53-mediated apoptosis
+  title: "Truncated <scp>HBx</scp>\u2010dependent silencing of <scp>GAS2</scp> promotes\
+    \ hepatocarcinogenesis through deregulation of cell cycle, senescence and p53\u2010\
+    mediated apoptosis"
   authors:
   - Ranxu Zhu
   - Myth TS Mok
   - Wei Kang
   - Suki SK Lau
-  - Wing-Kit Yip
+  - "Wing\u2010Kit Yip"
   - Yangchao Chen
   - Paul BS Lai
   - Vincent WS Wong
-  - Ka-Fai To
+  - "Ka\u2010Fai To"
   - Joseph JY Sung
   - Alfred SL Cheng
   - Henry LY Chan
@@ -1557,18 +1559,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:24812603
-  title: Dissecting the pleiotropic actions of HBx mutants against hypoxia in hepatocellular
-    carcinoma.
-  authors:
-  - Ying-Ying Lee
-  - Myth T S Mok
-  - Alfred Sze-Lok Cheng
-  publisher: Hepatobiliary surgery and nutrition
-  date: '2014-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24812603
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.3978/j.issn.2304-3881.2014.02.07
   title: Dissecting the pleiotropic actions of HBx mutants against hypoxia in hepatocellular
     carcinoma
@@ -1822,8 +1816,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1111/jgh.12090
-  title: "Alliance of epigenetic forces for the activation of oncogenic Wnt/\u03B2\
-    -catenin signaling"
+  title: "Alliance of epigenetic forces for the activation of oncogenic <scp>W</scp>nt/\u03B2\
+    \u2010catenin signaling"
   authors:
   - Alfa HC Bai
   - Alfred SL Cheng
@@ -1844,10 +1838,10 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/cncr.27865
-  title: "CITED2 is a novel direct effector of peroxisome proliferator-activated receptor\
-    \ \u03B3 in suppressing hepatocellular carcinoma cell growth"
+  title: "CITED2 is a novel direct effector of peroxisome proliferator\u2010activated\
+    \ receptor \u03B3 in suppressing hepatocellular carcinoma cell growth"
   authors:
-  - Kin-Fai Cheung
+  - "Kin\u2010Fai Cheung"
   - Junhong Zhao
   - Ying Hao
   - Xiaoxing Li
@@ -1973,8 +1967,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.febslet.2013.01.018
-  title: Full-length Mst1 exhibits growth promoting function in human hepatocellular
-    carcinoma cells
+  title: "Full\u2010length Mst1 exhibits growth promoting function in human hepatocellular\
+    \ carcinoma cells"
   authors:
   - Yuen-Keng Ng
   - Wing-Sze Lau
@@ -2033,15 +2027,15 @@
   date: ''
 - id: doi:10.1002/cncr.26189
   title: Characterization of the gene structure, functional significance, and clinical
-    application of<i>RNF180</i>, a novel gene in gastric cancer
+    application of <i>RNF180</i>, a novel gene in gastric cancer
   authors:
-  - Kin-Fai Cheung
+  - "Kin\u2010Fai Cheung"
   - Cleo N. Y. Lam
   - Kaichun Wu
   - Enders K. O. Ng
   - Wilson W. S. Chong
   - Alfred S. L. Cheng
-  - Ka-Fai To
+  - "Ka\u2010Fai To"
   - Daiming Fan
   - Joseph J. Y. Sung
   - Jun Yu
@@ -2530,21 +2524,21 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1002/ijc.24281
-  title: High serum interleukin-6 level predicts future hepatocellular carcinoma development
-    in patients with chronic hepatitis B
+  title: "High serum interleukin\u20106 level predicts future hepatocellular carcinoma\
+    \ development in patients with chronic hepatitis B"
   authors:
-  - Vincent Wai-Sun Wong
+  - "Vincent Wai\u2010Sun Wong"
   - Jun Yu
-  - Alfred Sze-Lok Cheng
-  - Grace Lai-Hung Wong
-  - Hoi-Yun Chan
-  - Eagle Siu-Hong Chu
-  - Enders Kai-On Ng
-  - Francis Ka-Leung Chan
-  - Joseph Jao-Yao Sung
-  - Henry Lik-Yuen Chan
+  - "Alfred Sze\u2010Lok Cheng"
+  - "Grace Lai\u2010Hung Wong"
+  - "Hoi\u2010Yun Chan"
+  - "Eagle Siu\u2010Hong Chu"
+  - "Enders Kai\u2010On Ng"
+  - "Francis Ka\u2010Leung Chan"
+  - "Joseph Jao\u2010Yao Sung"
+  - "Henry Lik\u2010Yuen Chan"
   publisher: International Journal of Cancer
-  date: '2009-06-15'
+  date: '2009-03-06'
   link: https://doi.org/djr4ff
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
@@ -3025,8 +3019,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1046/j.1365-2036.2002.01163.x
-  title: Expression of cyclooxygenase-2 in chronic hepatitis B and the effects of
-    anti-viral therapy
+  title: "Expression of cyclooxygenase\u20102 in chronic hepatitis B and the effects\
+    \ of anti\u2010viral therapy"
   authors:
   - A. S. L. Cheng
   - H. L. Y. Chan
@@ -3047,8 +3041,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1046/j.1365-2036.2001.00918.x
-  title: "Expression and cellular localization of COX-1 and -2 in <i>Helicobacter\
-    \ pylori</i>\n gastritis"
+  title: "Expression and cellular localization of COX\u20101 and \u20102 in <i>Helicobacter\
+    \ pylori</i> gastritis"
   authors:
   - F. K. L. Chan
   - K. F. To
@@ -3069,7 +3063,8 @@
   file: orcid.yaml
   date: ''
 - id: doi:10.1046/j.1365-2036.2001.00889.x
-  title: Up-regulation of cyclooxygenase-1 and -2 in human gastric ulcer
+  title: "Up\u2010regulation of cyclooxygenase\u20101 and \u20102 in human gastric\
+    \ ulcer"
   authors:
   - K. F. To
   - F. K. L. Chan
